@@ -50,7 +50,7 @@ This repository contains the backend API and frontend app for the Fullstack Inte
 4. Build the Docker image and start the container:
 
    ```bash
-   docker-compose up 
+   docker compose up 
    ```
 
 ### Frontend App Installation
