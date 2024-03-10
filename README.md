@@ -1,6 +1,10 @@
 # fullstackRAG
 This repository contains the backend API and frontend app for the Fullstack Internship Assignment. The backend API allows users to upload PDF documents, ask questions about the content of these documents, and receive answers based on Langchain . The frontend app provides a user interface for interacting with the backend API.
 
+Architecture - 
+
+![image](https://github.com/s0ham075/fullstackRAG/assets/120611768/670f7e1c-22f7-418e-9b99-04c03fd3c768)
+
 ## Technologies Used
 
 ### Backend API
