@@ -1,6 +1,4 @@
 # fullstackRAG
-Sure, here's an updated README file with instructions for starting both the backend and frontend apps, along with a section detailing the technologies used:
-
 This repository contains the backend API and frontend app for the Fullstack Internship Assignment. The backend API allows users to upload PDF documents, ask questions about the content of these documents, and receive answers based on Langchain . The frontend app provides a user interface for interacting with the backend API.
 
 ## Technologies Used
@@ -16,7 +14,7 @@ This repository contains the backend API and frontend app for the Fullstack Inte
 
 - Next.js: JavaScript Framework for building user interfaces.
 - Axios: Promise-based HTTP client for making API requests.
-- shadcn/ui : React component library for implementing Material Design.
+- shadcn/ui : Next.js component library for implementing Modern Design.
 
 ## Setup Instructions
 
