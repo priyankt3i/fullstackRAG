@@ -28,7 +28,7 @@ This repository contains the backend API and frontend app for the Fullstack Inte
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/s0ham075/fullstackRAG.git
    ```
 
 2. Navigate to the project directory:
