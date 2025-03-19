@@ -7,7 +7,7 @@ export default function Navbar() {
     <div className='sticky flex flex-row justify-between  px-6 
     py-2 items-center border-b border-black bg-white min-w-full'>
       <div className='font-bold'>
-        <Link href="/">Mystiquill</Link>
+        <Link href="/">PR RAG Portal</Link>
       </div>
 
       <div className='flex flex-row justify-between  '> 
